@@ -6,6 +6,8 @@ Your task: another developer wrote an application to build a lottery application
 
  This lesson will focus on your ability to read error messages. You'll be starting with some broken code, and through your debugging process will eventaully turn it into working code! Follow the prompt below. 
 
+0. Fork this lab and clone down a local copy. 
+
 1. Open `index.html` and look in the console in your developer tools. What is the error message that you see? 
 
 2. What line number does the error message point to? 
