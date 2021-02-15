@@ -16,5 +16,5 @@ Your task: another developer wrote an application to build a lottery application
 
 4. Make the change you suggested in line number three. Re-run the file by refreshing the `index.html` page. 
 
-Repeat steps 1-4 until your program works as intended!
+Repeat steps 1-4 until your program works as intended! The program works as intended when you see an alert message which shows your lucky number!
 
